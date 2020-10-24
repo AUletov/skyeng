@@ -1,2 +1,2 @@
 # Тестовое задание для Skyeng
-[Skyeng](https://auletov.github.io/skyeng/src/index.html "Тестовое задание")
+[Skyeng](https://auletov.github.io/skyeng/index.html "Тестовое задание")
