@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+vim-content-section {
+  display: block;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+vim-content-section-title {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+vim-instruction {
+  display: inline-block;
+  color: #c800c8;
+  margin-bottom: 15px;
+}
+vim-test {
+  display: block;
+  line-height: 1.5;
+}
+vim-test-question-text {
+  display: inline-block;
+  left: 0;
+}
+vim-test-answers {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+vim-color {
+  display: inline-block;
+  background-color: lightgreen;
+}
+table {
+  width: 600px;
+  margin-bottom: 60px;
+}
